@@ -14,6 +14,7 @@ Atuo principalmente com arquitetura de software, gerenciamento de estado, integr
 - Get_it
 - Bloc/Cubit
 - Consumo de APIs REST com Dio
+- Tratamento de erros com fpdart ou dartz
 - Push Notifications com Firebase
 - Utilização da câmera do dispositivo móvel com Image Picker
 - Persistência com Hive CE
@@ -33,16 +34,17 @@ Aplicação mobile desenvolvida com Flutter com foco em uma experiência minimal
 
 Classificação: Pessoal
 
-**Tecnologias:**
+**Principal:**
 - Flutter/Dart
 - Flutter Modular
 - Bloc/Cubit
 - Hive CE
+- fpdart
 - Clean Architecture
 - Clean Dart
 - Git
 
-[Ver projeto](#)
+[Ver projeto](https://github.com/joaoesenci/contellation-app)
 
 ### Web Análise App
 
@@ -52,7 +54,7 @@ Classificação: Profissional
 
 > **Nota:** Este repositório contém apenas implementações demonstrativas profissionais, autorizadas pela empresa. Nenhum código proprietário ou informação confidencial é disponibilizado.
 
-**Tecnologias:**
+**Principal:**
 - Flutter/Dart
 - Flutter Modular
 - Bloc/Cubit
@@ -73,7 +75,7 @@ Classificação: Profissional
 
 > **Nota:** Este repositório contém apenas implementações demonstrativas profissionais, autorizadas pela empresa. Nenhum código proprietário ou informação confidencial é disponibilizado.
 
-**Tecnologias:**
+**Principal:**
 - Flutter/Dart
 - Flutter Modular
 - Bloc/Cubit
