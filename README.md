@@ -6,7 +6,6 @@ Desenvolvedor Mobile com foco em Flutter e Dart, com experiência no desenvolvim
 
 Atuo principalmente com arquitetura de software, gerenciamento de estado, integração com APIs REST e desenvolvimento de funcionalidades utilizando Flutter.
 
----
 
 ## 🛠️ Tecnologias e Práticas
 
@@ -25,7 +24,6 @@ Atuo principalmente com arquitetura de software, gerenciamento de estado, integr
 - FVM
 - Android Studio
 
----
 
 ## 🚀 Projetos
 
@@ -88,7 +86,6 @@ Classificação: Profissional
 
 [Ver projeto](#)
 
----
 
 ## 🎓 Formação
 
